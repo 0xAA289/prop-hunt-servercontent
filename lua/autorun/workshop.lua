@@ -1,1 +1,0 @@
-if SERVER then resource.AddWorkshop("2807801954") end
